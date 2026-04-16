@@ -5,7 +5,7 @@ troubleshooting, documenting issues, and thinking like frontline support.
 
 ## Labs
 
-- [Lab 01 – Email Login Troubleshooting](./email/email-login-troubleshooting.md)  
+- [Lab 01 – Email Login Troubleshooting](./Email/email-login-troubleshooting.md)  
   Simulated a user who couldn’t sign into their email on a MacBook; documented questions, diagnostic steps, root cause, and resolution.
 
 - [Lab 02 – macOS New User Setup & Hardening](./macos/new-user-setup.md)  
