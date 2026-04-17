@@ -10,6 +10,3 @@ troubleshooting, documenting issues, and thinking like frontline support.
 
 - [Lab 02 – macOS New User Setup & Hardening](./MacOS/new-user-setup.md)  
   Simulated setting up a new employee’s Mac with security and usability best practices.
-
-- [Lab 03 – Ticketing & Knowledge Base Practice](./Tickets/ticket-log.md)  
-  Created practice tickets and matching how-to articles to mimic a small internal help desk.
