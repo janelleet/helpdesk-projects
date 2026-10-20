@@ -12,6 +12,6 @@ troubleshooting, documenting issues, and thinking like frontline support.
   Simulated setting up a new employee’s Mac with security and usability best practices.
   
 - Lab 03 - Windows IT Support Lab
-  Conducted a Windows system inventory using System Information and Task Manager, documenting operating system details and CPU, memory, and disk utilization.
-  Performed basic network diagnostics using ipconfig, ping, and nslookup to examine IP configuration, connectivity, and DNS resolution.
-  Created structured technical case notes documenting diagnostic steps, findings, verification results, and limitations in a virtual Windows environment.
+    - Conducted a Windows system inventory using System Information and Task Manager, documenting operating system details and CPU, memory, and disk utilization.
+    - Performed basic network diagnostics using ipconfig, ping, and nslookup to examine IP configuration, connectivity, and DNS resolution.
+    - Created structured technical case notes documenting diagnostic steps, findings, verification results, and limitations in a virtual Windows environment.
